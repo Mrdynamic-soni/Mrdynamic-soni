@@ -1,7 +1,6 @@
-### Hi there i am SAURABH SONI 👋
+##Hi there i am __SAURABH SONI__ 👋
+## i am an __electronics and communication engineering__ student at madan mohan malavita univeristy if techonology
 
-<!--
-**Mrdynamic-soni/Mrdynamic-soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
