@@ -1,5 +1,5 @@
-# Hi there i am *SAURABH SONI 👋
-## i am an *electronics and communication engineering* student at *Madan Mohan Malaviya University of Techonology.
+# Hi there i am *SAURABH SONI* 👋
+## i am an *electronics and communication engineering* student at *Madan Mohan Malaviya University of Techonology.*
 
 
 Here are some ideas to get you started:
