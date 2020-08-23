@@ -1,5 +1,5 @@
-# Hi there i am __ SAURABH SONI __ 👋
-## i am an __ electronics and communication engineering __ student at madan mohan malavita univeristy if techonology
+# Hi there i am __SAURABH SONI__ 👋
+o## i am an __electronics and communication engineering__ student at madan mohan malaviya university 0f techonology.
 
 
 Here are some ideas to get you started:
@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 contact me on
 - 📫 How to reach me: ...
 - 😄 Hobbies __sketching/photography__.
-- ⚡ Fun fact i am not funny at all.
--->
+- ⚡ Fun fact,i am not funny at all.
