@@ -1,5 +1,5 @@
 # Hi there i am 💻 🤓 ⭐ 🌟 *SAURABH SONI* ⭐ 🌟 🧑‍🚀 🏈
-## i am an *electronics and communication engineering* student at *Madan Mohan Malaviya University of Techonology.*
+## i am an :electron: ☎️ *electronics and communication engineering* 🧑‍🔬  student at 🏫 *Madan Mohan Malaviya University of Techonology.* 
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
 
