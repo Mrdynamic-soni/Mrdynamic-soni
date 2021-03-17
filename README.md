@@ -5,7 +5,7 @@ IOT developer at <a href="https://codebugged.com">CODEBUGGED</a>  <img src="http
 </em></p>
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
-
+-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrdynamic-soni.Mrdynamic-soni)
 
 Here are some ideas to get you started:
 
