@@ -6,7 +6,7 @@ IOT developer at <a href="https://codebugged.com">CODEBUGGED</a>  <img src="http
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrdynamic-soni.Mrdynamic-soni)
-[![GitHub followers](https://img.shields.io/github/followers/gauravdas014.svg?style=social&label=Follow)](https://github.com/Mrdynamic-soni?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Mrdynamic-soni.svg?style=social&label=Follow)](https://github.com/Mrdynamic-soni?tab=followers)
 
 Here are some ideas to get you started:
 
