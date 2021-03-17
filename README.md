@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![SAURABH'S GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrdynamic-soni&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52)
 
-![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=dracula)
+![](https://activity-graph.herokuapp.com/graph?username=Mrdynamic-soni&theme=dracula)
