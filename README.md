@@ -1,5 +1,8 @@
-# Hi there i am 💻 🤓 ⭐ 🌟 *SAURABH SONI* ⭐ 🌟 🧑‍🚀 🏈
-## i am an :electron: ☎️ *electronics and communication engineering* 🧑‍🔬  student at 🏫 *Madan Mohan Malaviya University of Techonology.* 
+# Hi there i am 💻 🤓 ⭐ 🌟 *SAURABH SONI* ⭐ 🌟 🧑‍🚀 🏈 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## i am an :electron: ☎️ *electronics and communication engineering* 🧑‍🔬  student at 🏫 *<a href="http://www.mmmut.ac.in"</a>* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  
+IOT developer at <a href="https://codebugged.com"</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
 
