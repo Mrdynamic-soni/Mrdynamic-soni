@@ -8,9 +8,7 @@ IOT developer at <a href="https://codebugged.com">CODEBUGGED</a>  <img src="http
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrdynamic-soni.Mrdynamic-soni)
 [![GitHub followers](https://img.shields.io/github/followers/Mrdynamic-soni.svg?style=social&label=Follow)](https://github.com/Mrdynamic-soni?tab=followers)
  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
- [![Linkedin: manik](https://img.shields.io/badge/-manik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manik-malhotra-029a22193/)](https://www.linkedin.com/in/saurabh-soni-48a567166/)
-
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on __embedded systems__.
