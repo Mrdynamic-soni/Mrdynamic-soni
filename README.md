@@ -3,7 +3,7 @@
 ## i am an :electron: ☎️ *Electronics and Communication Engineering* 🧑‍🔬  student at 🏫 *<a href="http://www.mmmut.ac.in">MMMUT</a>* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 ## IOT developer at <a href="https://codebugged.com">CODEBUGGED</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-## PYTHON trainer at <a href="https://www.codeyoung.com">Codeyoung</a>
+## CERTIFIED PYTHON trainer at <a href="https://www.codeyoung.com">Codeyoung</a>
 </em></p>
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
