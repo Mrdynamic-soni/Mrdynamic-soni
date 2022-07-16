@@ -1,16 +1,15 @@
 
-# Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> there i am SAURABH SONI<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-## i am an :electron: ☎️ *Electronics and Communication Engineering* 🧑‍🔬  student at 🏫 *<a href="http://www.mmmut.ac.in">MMMUT</a>* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# Hi, I am SAURABH SONI, I am a final year E.C.E. student @ *<a href="http://www.mmmut.ac.in">MMMUT</a>* 
  
-## Trainee Software Engineer  @<a href="https://matrixnodes.com/">MAtrix Nodes</a>
-## Former IOT developer at <a href="https://codebugged.com">CODEBUGGED</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-## CERTIFIED PYTHON trainer at <a href="https://www.codeyoung.com">Codeyoung</a>
+## Trainee Software Engineer  @<a href="https://matrixnodes.com/">Matrix Nodes</a>
+## Former IOT developer at <a href="https://codebugged.com">Codebugged AI</a>
+## Certified Python trainer at <a href="https://www.codeyoung.com">Codeyoung</a>
 </em></p>
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrdynamic-soni.Mrdynamic-soni)
 [![GitHub followers](https://img.shields.io/github/followers/Mrdynamic-soni.svg?style=social&label=Follow)](https://github.com/Mrdynamic-soni?tab=followers)
- [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
  
 
