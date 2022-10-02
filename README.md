@@ -1,7 +1,7 @@
 
 # Hi, I am SAURABH SONI, I am a final year E.C.E. student @ *<a href="http://www.mmmut.ac.in">MMMUT</a>* 
  
-## Trainee Software Engineer  @<a href="https://matrixnodes.com/">Matrix Nodes</a>
+## Former Trainee Software Engineer  @<a href="https://matrixnodes.com/">Matrix Nodes</a>
 ## Former IOT developer at <a href="https://codebugged.com">Codebugged AI</a>
 ## Certified Python trainer at <a href="https://www.codeyoung.com">Codeyoung</a>
 </em></p>
