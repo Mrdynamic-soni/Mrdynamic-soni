@@ -1,5 +1,6 @@
 
-# Hi, I am SAURABH SONI,\n SDE @ timelyai | Full Stack Developer| React-Native | Express.js | AWS | Trainer | SDE | JavaScript | DSA | React | Node | Python | Flask | Building scalable applications for enterprises 
+# Hi, I am SAURABH SONI,
+SDE @ timelyai | Full Stack Developer| React-Native | Express.js | AWS | Trainer | SDE | JavaScript | DSA | React | Node | Python | Flask | Building scalable applications for enterprises 
  
 ## Former Trainee Software Engineer  @<a href="https://matrixnodes.com/">Matrix Nodes</a>
 ## Former IOT developer at <a href="https://codebugged.com">Codebugged AI</a>
