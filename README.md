@@ -2,9 +2,7 @@
 # Hi, I am SAURABH SONI,
 SDE @ timelyai | Full Stack Developer| React-Native | Express.js | AWS | Trainer | SDE | JavaScript | DSA | React | Node | Python | Flask | Building scalable applications for enterprises 
  
-## Former Trainee Software Engineer  @<a href="https://matrixnodes.com/">Matrix Nodes</a>
-## Former IOT developer at <a href="https://codebugged.com">Codebugged AI</a>
-## Certified Python trainer at <a href="https://www.codeyoung.com">Codeyoung</a>
+
 </em></p>
 
 <a href="https://github.com/Mrdynamic-soni/stargazers"><img src="https://img.shields.io/github/stars/Mrdynamic-soni" alt="Stars Badge"/></a>
